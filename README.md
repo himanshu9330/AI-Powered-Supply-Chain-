@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏭 AI-Powered Supply Chain Control Tower
+# 🏭 AI-Powered Supply Chain 
 
 ### Predictive Inventory Planning & Smart Logistics Analytics Platform
 
