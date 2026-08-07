@@ -1,0 +1,51 @@
+# ── Node / npm ──────────────────────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# ── Build outputs ───────────────────────────────────────────────
+dist/
+build/
+.vite/
+
+# ── Environment & secrets ────────────────────────────────────────
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# ── Python / ML service ──────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+.eggs/
+*.so
+
+# ── Trained ML model artifacts ───────────────────────────────────
+supply-chain-control-tower/ml-service/app/models/*.pkl
+
+# ── Logs ─────────────────────────────────────────────────────────
+logs/
+*.log
+combined.log
+error.log
+
+# ── OS / Editor ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ── Test coverage ────────────────────────────────────────────────
+coverage/
+.nyc_output/
+htmlcov/
+.pytest_cache/
