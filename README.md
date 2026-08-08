@@ -4,7 +4,7 @@
 
 ### Predictive Inventory Planning & Smart Logistics Analytics Platform
 
-video link:- https://drive.google.com/file/d/1EXDas-Q9tXIVKycDSBLFHSURhO3vBsLM/view?usp=sharing
+video link:- https://drive.google.com/file/d/1kcK1umCP4u1DRS5c-IkIHjq0Hh3H9Jqy/view?usp=drive_link
 
 [![Node.js](https://img.shields.io/badge/Node.js-20.x-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-18.x-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
